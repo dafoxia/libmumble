@@ -6,7 +6,7 @@
 	url = https://chromium.googlesource.com/external/googletest
 [submodule "3rdparty/openssl"]
 	path = 3rdparty/openssl
-	url = git://openssl.net/openssl
+	url = https://github.com/openssl/openssl
 [submodule "3rdparty/gyp"]
 	path = 3rdparty/gyp
 	url = https://chromium.googlesource.com/external/gyp.git
