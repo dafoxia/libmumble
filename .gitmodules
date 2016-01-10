@@ -3,7 +3,7 @@
 	url = git://github.com/joyent/libuv.git
 [submodule "3rdparty/gtest"]
 	path = 3rdparty/gtest
-	url = https://git.chromium.org/git/external/gtest.git
+	url = https://chromium.googlesource.com/external/googletest
 [submodule "3rdparty/openssl"]
 	path = 3rdparty/openssl
 	url = git://openssl.net/openssl
